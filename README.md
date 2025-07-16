@@ -69,4 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Analytics-Dashboard
-# Analytics-Dashboard
+
+<img width="1437" height="810" alt="image" src="https://github.com/user-attachments/assets/83f72c08-3f83-49b5-8113-912ef28ac5a4" />
+
